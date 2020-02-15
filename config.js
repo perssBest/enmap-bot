@@ -6,7 +6,7 @@ exports.logs = {
 }
 
 exports.bot = {
-    token: "NjcyMTA0ODgwOTU3MTYxNTQ1.XkbmjA.oC-7eVBfvt7CTp6f3LOzNX-CUVw",
+    token: " ",
     prefix: "...", // Префиксы на которые будет реагировать бот
     owner: "643018466261205021", // Айди юзеров на которых не будут ограничения.
     color: "ffff", // Основной цвет эмбеда
