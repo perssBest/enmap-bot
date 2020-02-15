@@ -1,7 +1,7 @@
 try{
     global.bot.on('ready', async () =>{
         if(config.logs.readyLog){
-        console.log(`-----------------Authors-----------------\nGithub: https://githib.com/perssBest\nDiscord: https://discord.gg/-----------------------------------------`)
+        console.log(`-----------------Authors-----------------\nGithub: https://githib.com/perssBest\nDiscord: https://discord.gg/xYBqvxQ\n-----------------------------------------`)
         }else return;
 
         if(config.bot.status){
